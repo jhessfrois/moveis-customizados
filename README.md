@@ -1,0 +1,18 @@
+# Página Móveis Customizados
+
+![preview](/.github/preview.png)
+
+> Primeiro desafio do curso Explorer da Rocketseat. Feito com HTML e CSS.
+
+## Github Pages
+[🔗 Clique aqui para acessar](https://jhessfrois.github.io/jogo-pong/)
+
+## 🛠 Tecnologias
+> Tecnologias usadas para desenvolver o jogo
+
+- HTML
+- CSS
+
+## 🖤 Contato
+
+jhessfsantos@gmail.com
