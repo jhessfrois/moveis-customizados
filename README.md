@@ -8,7 +8,7 @@
 [🔗 Clique aqui para acessar](https://jhessfrois.github.io/moveis-customizados/)
 
 ## 🛠 Tecnologias
-> Tecnologias usadas para desenvolver o jogo
+> Tecnologias usadas para desenvolver a página
 
 - HTML
 - CSS
