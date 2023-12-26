@@ -5,10 +5,10 @@
 > 1º desafio de uma landing page simples do curso Explorer da Rocketseat. Feito com HTML e CSS.
 
 ## Github Pages
-[🔗 Clique aqui para acessar](https://jhessfrois.github.io/jogo-pong/)
+[🔗 Clique aqui para acessar](https://jhessfrois.github.io/moveis-customizados/)
 
 ## 🛠 Tecnologias
-> Tecnologias usadas para desenvolver o jogo
+> Tecnologias usadas para desenvolver a página
 
 - HTML
 - CSS
